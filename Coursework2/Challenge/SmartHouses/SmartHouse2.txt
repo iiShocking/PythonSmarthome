@@ -1,0 +1,8 @@
+Washing Machine,Washing Machine,1,ON,OFF
+Washing Machine,Washing Machine,1,ON,OFF
+Washing Machine,Washing Machine,1,ON,OFF
+Washing Machine,Washing Machine,1,ON,OFF
+Smart Plug,Plug,50,ON,OFF
+Smart Plug,Plug,80,ON,OFF
+Smart Plug,Plug,120,ON,OFF
+Smart Plug,Plug,150,ON,OFF

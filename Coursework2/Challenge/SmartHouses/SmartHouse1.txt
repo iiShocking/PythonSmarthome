@@ -1,0 +1,7 @@
+Washing Machine,Kitchen Machine,2,ON,OFF
+Smart Plug,Router,80,08:00,20:00
+Washing Machine,Loft Machine,3,ON,OFF
+Smart Plug,Xbox One,130,ON,21:00
+Washing Machine,Basement Machine,1,ON,OFF
+Smart Plug,PS5,150,ON,22:00
+Smart Plug,House Music,70,07:00,19:00
